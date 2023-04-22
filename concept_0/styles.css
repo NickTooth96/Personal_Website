@@ -1,0 +1,43 @@
+body {
+    font-family: 'Brush Script MT', cursive;
+    background-color: antiquewhite;
+}
+
+.name {
+    font-size: 24vmin;
+    text-align: right;
+    padding-right: 12vmin;
+    text-shadow: 12vmin 5vmin 2vmin gray;
+}
+
+.name:hover {
+    font-size: 28vmin;
+    text-align: right;
+    padding-right: 7.5vmin;
+    text-shadow: 10vmin 4vmin 2vmin gray;
+}
+
+.words {
+    font-size: 5vmin;
+    text-align: right;
+    padding-right: 12vmax;
+    text-shadow: 12vmin 5vmin 2vmin gray;
+    padding-bottom: 12vmin;
+}
+
+.column-left {
+    float: left;
+    width: 10vmax;
+}
+
+.column-right {
+    float: left;
+    width: 90vmax;
+}
+
+.box {
+    margin: auto;
+    margin-top: 20vmax;
+    width: 25vmax;
+    padding: 10vmax;
+}
