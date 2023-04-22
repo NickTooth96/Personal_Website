@@ -62,3 +62,6 @@ li a.active {
     padding: 25px;
     border: 2pt solid black;
 }
+.list {
+    align-content: center;
+}
